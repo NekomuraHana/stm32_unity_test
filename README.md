@@ -16,3 +16,6 @@ unity testが一応、動く状態となっている。
 ![fail_image](image/stm32_test1.png)
 
 ![ok_image](image/stm32_test2.png)
+
+# 実行環境
+- STM32 cube IDE ver 1.12.0
