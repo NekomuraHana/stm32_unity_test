@@ -1,0 +1,3 @@
+test_runner.c:10:6:setUp	1
+test_runner.c:16:6:tearDown	1
+test_runner.c:25:5:mainTest	1

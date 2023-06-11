@@ -1,0 +1,3 @@
+../Core/unit_test/test_runner.c:10:6:setUp	8	static
+../Core/unit_test/test_runner.c:16:6:tearDown	8	static
+../Core/unit_test/test_runner.c:25:5:mainTest	8	static
